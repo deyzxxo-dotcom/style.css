@@ -1,6 +1,6 @@
 body{
 background:#0d1117;
-color:white;
+color:rojo;
 font-family:Arial;
 margin:0;
 }
@@ -13,7 +13,7 @@ padding:70px;
 a{
 background:#00ff88;
 padding:12px 20px;
-color:black;
+color:azul;
 text-decoration:none;
 border-radius:10px;
 }
